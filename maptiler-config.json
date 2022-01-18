@@ -1,0 +1,23 @@
+{
+    "options": {
+        "paths": {
+            "root": "/app/node_modules/tileserver-gl-styles",
+            "fonts": "/data/fonts",
+            "styles": "/data/styles",
+            "mbtiles": "/data"
+        }
+    },
+    "styles": {
+        "dark": {
+            "style": "/data/styles/dark.json"
+        },
+        "light": {
+            "style": "/data/styles/light.json"
+        }
+    },
+    "data": {
+        "v3": {
+            "mbtiles": "mapdata.mbtiles"
+        }
+    }
+}
