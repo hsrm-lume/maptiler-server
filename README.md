@@ -1,4 +1,4 @@
-# Map-Tile Server for Lume
+# Map-Tile Server for lume
 
 Map-Tiles service for [hsrm-lume/angular-map-frontend](https://github.com/hsrm-lume/angular-map-frontend).
 
